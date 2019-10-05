@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49d4b8b4-4a20-443b-9852-ab7ce77a4a48" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../tensorflow190928/lstm/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow190928/lstm/ai_trader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow190928/lstm/cansim.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow190928/lstm/cos_graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow190928/lstm/data/cansim-0800020-eng-6674700030567901031.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow190928/lstm/keras_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow190928/lstm/keras_sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow190928/lstm/movie_lstm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tensorflow190928/lstm/naver_stock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced/cnn_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow2/fashion_mnist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow2/imdb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow2/save_load.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/.idea/tesorflow190921.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/cnn2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/cnn2/cat-mosaic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/cnn2/cat_mosaic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/cnn2/data/cat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/cnn2/data/face-detect.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/cnn2/data/family.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/cnn2/data/girl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/cnn2/data/haarcascade_frontalface_alt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/cnn2/data/lena.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/cnn2/data/test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/cnn2/data/yoko.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/cnn2/face_detect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/cnn2/face_mosaic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/cnn2/girl-face.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/cnn2/girl-mosaic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/dLearn/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/dLearn/data/cat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/dLearn/data/face-detect.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/dLearn/data/family.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/dLearn/data/girl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/dLearn/data/haarcascade_frontalface_alt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/dLearn/data/iris.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/dLearn/data/lena.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/dLearn/data/test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/dLearn/data/yoko.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/dLearn/face.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/dLearn/fashion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/dLearn/img_editor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/dLearn/img_small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/dLearn/iris.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/dLearn/lena.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/dLearn/perceptron.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/digits/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/digits/data/digits.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/digits/data/my2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/digits/data/my4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/digits/data/my9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/digits/handWriting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/lstm/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tesorflow190921/lstm/ai_trader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1RSVQSxDfTjUY6ZVJPoq7afVwrX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ezen\PycharmProjects\tensorflow191005\tf2\data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.cnn_1">
+    <configuration name="cnn_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tensorflow191005" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/advanced" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advanced/cnn_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fashion_mnist" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tensorflow191005" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tensorflow2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflow2/fashion_mnist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="imdb" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tensorflow191005" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tensorflow2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflow2/imdb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tensorflow191005" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tf2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tf2/regression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="save_load" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tensorflow191005" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tensorflow2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflow2/save_load.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.cnn_1" />
+        <item itemvalue="Python.save_load" />
+        <item itemvalue="Python.imdb" />
+        <item itemvalue="Python.fashion_mnist" />
+        <item itemvalue="Python.regression" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49d4b8b4-4a20-443b-9852-ab7ce77a4a48" name="Default Changelist" comment="" />
+      <created>1569660467224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569660467224</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
